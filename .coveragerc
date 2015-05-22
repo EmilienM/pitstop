@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = pitstop
+omit = pitstop/tests/*
+
+[report]
+ignore-errors = True
